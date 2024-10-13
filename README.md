@@ -1,6 +1,6 @@
 # TurtleBot Waffle A* Path Planning
 
-This repository contains code for Path Planning using A* algorithm for a turtlebot waffle robot.
+This repository contains code for Path Planning using A* algorithm for a turtlebot waffle robot. We came 3rd place in a course-wide competition.
  
 ## YouTube Video
 [![robot Video](https://github.com/piyush-g0enka/autonomous-robot-path-planning-a-star/blob/main/images/thumbnail.png)](https://www.youtube.com/watch?v=HkGXxsGaqz4)
