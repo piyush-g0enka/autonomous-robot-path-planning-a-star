@@ -14,8 +14,9 @@ To run only the algorithm (debugging):
 
 $ python3 2d_stuff/algorithm.py
 
-To run the algorithm on the turtlebot, place the ROS2 humble package turtlebot3_project3 in a colcon workspace and build it.
-Make sure the robot is connected to the ROS2 network and can take in /cmd_vel messages. Then run the following-
+To run the algorithm on the turtlebot, place the ROS2 humble package turtlebot3_project3 in
+a colcon workspace and build it. Make sure the robot is connected to the ROS2 network and
+can take in /cmd_vel messages. Then run the following-
 
 $ python3 turtlebot3_project3/turtlebot3_project3/turtlebot_controller_interface.py
 
